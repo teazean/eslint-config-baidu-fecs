@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-baidu-fecs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "baidu fecs eslint config (no fecs* rules)",
   "main": "index.js",
   "scripts": {
