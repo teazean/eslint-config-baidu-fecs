@@ -471,9 +471,12 @@ module.exports = {
         "import/no-namespace": 0,
         "import/extensions": [
             2, {
-                ".js": "never",
-                ".jsx": "never",
-                ".es": "never"
+                "js": "never",
+                "jsx": "never",
+                "es": "never",
+                "vue": "never",
+                "svg": "always",
+                "less": "always"
             }
         ],
         "import/order": 1,
